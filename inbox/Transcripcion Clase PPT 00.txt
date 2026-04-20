@@ -1,0 +1,1147 @@
+ bien bueno vamos a empezar hablando de 
+ la definición de software estos seguro 
+ que ustedes ya lo han visto innumerables 
+ veces no será la primera ni la única vez 
+ en donde se han preguntado qué es el 
+ software veamos 
+ independientemente de esta definición 
+ tentativa que nosotros ponemos a que el 
+ slide una de las cosas que siempre 
+ queremos remarcar es que el software no 
+ es solamente el código si uno tiende a 
+ hacer una asociación entre que el 
+ software el código y en verdad el 
+ software tiene que ver con un set de 
+ programas pero también con la 
+ documentación que lo comparte si las dos 
+ cosas o todo el conjunto es lo que 
+ nosotros llamamos software y ese 
+ concepto es muy importante y es muy 
+ importante que lo incorporen si es que 
+ esta altura del partido todavía no lo 
+ tienen incorporado porque saber 
+ programar no alcanza para construirse 
+ es suficiente y en verdad digamos en el 
+ mercado y en lo que nosotros conocemos 
+ podemos decir que tenemos tres tipos 
+ básicos de software 
+ lo que tiene que ver con los utilitarios 
+ o con 
+ la parte de system software y el 
+ software de aplicación que es por lo 
+ general el software con que en el 
+ práctico y en los ejemplos que nosotros 
+ les damos es con el que nosotros vamos a 
+ trabajar así 
+ uno de los aspectos que a nosotros nos 
+ interesa remarcar cuando hablamos de 
+ software hace como yo les insisto que el 
+ software no es solamente un conjunto de 
+ programas también les puedo decir que no 
+ hay manera de comparar software y 
+ manufactura no hay manera de comparar de 
+ comparar software con un proceso con una 
+ línea de producción por distintos 
+ motivos hay muchos motivos pero hay 
+ algunos que son como muy claros a la 
+ hora de darnos cuenta de que pensar que 
+ vamos a construir software como si 
+ estuviéramos trabajando en una línea de 
+ producción de alguna manera de una 
+ locura de sí y porque digamos bueno en 
+ principio uno de los aspectos claves y 
+ que incluso tiene que de alguna manera 
+ está relacionado con un concepto que 
+ vamos a ver el viernes que es el que 
+ tiene que ver con proyectos de software 
+ tiene que ver con que casi ningún 
+ producto de software es igual a otro 
+ incluso cuando la idea la concepción 
+ pareciera que es similar o pareciera que 
+ se trata de lo mismo pero en verdad 
+ prácticamente ningún producto de 
+ software es igual a otro porque de 
+ alguna manera los requerimientos y las 
+ necesidades de nuestros usuarios o de 
+ los usuarios que van a hacer uso de ese 
+ software por más que el concepto sea el 
+ mismo esos requerimientos van a ser 
+ diferentes y entonces eso es lo que hace 
+ que ningún producto de software sea 
+ igual a otro ni hablar si esto 
+ transcurre en distintos momentos del 
+ tiempo digamos 
+ por otro lado el software no es 
+ predecible como cuando eso fabricó un 
+ producto en la línea de producción por 
+ ejemplo una botellita o cuando fabricó 
+ celulares digamos sin pensar en el 
+ software sino en la parte física digamos 
+ eso es algo predecible lo que tiene que 
+ ver con cuestiones tangibles algo 
+ predecible el software que es intangible 
+ no es predecir si entonces hay un montón 
+ de cuestiones que si nosotros decimos si 
+ siempre hacemos lo mismo vamos a tener 
+ el mismo resultado y no necesariamente 
+ entonces no podemos decir que podemos 
+ hacer esa predicción 
+ el software no se gasta si normalmente 
+ cuando nosotros hablamos de productos y 
+ hablamos del tiempo hablamos de que los 
+ productos se van desgastando con el 
+ tiempo eso al software no le pasa eso le 
+ pasan otras cosas como que deja de tener 
+ vigencia porque los requerimientos del 
+ negocio van cambiando y el software 
+ tiene que adaptarse a esos cambios pero 
+ no porque se desgaste en términos de 
+ materiales es otra cosa lo que hay en el 
+ medio día sí 
+ claramente no está gobernado por las 
+ leyes de la física digamos y claramente 
+ lo que tiene que ver con el manejo de 
+ fasa y con el manejo de errores es 
+ bastante distinto que cuando nosotros 
+ fabricamos los productos dentro de una 
+ línea de producción y en verdad nosotros 
+ acá estamos poniendo cinco razones para 
+ no comparar software y manufactura hay 
+ otras que podríamos nombrar y que casi 
+ todas están relacionadas con esto de la 
+ intangibilidad del software pero es 
+ simplemente como para dejarles a ustedes 
+ estar está sonando hace como yo les digo 
+ es importante no asociar software de 
+ código es importante no asociar es que 
+ yo construyo software por más que ahora 
+ esté en bolos de demo del tema en el 
+ término del software factory yo no 
+ construyo software en una línea de 
+ producción definitivamente 
+ en esto de hablar de software y de hacer 
+ un poco de historia nos parece 
+ importante poder y sobre todo ustedes 
+ que son tan chicos no no soy tan chica 
+ pero ustedes que son más jóvenes digamos 
+ por ahí si yo les empiezo a decir que o 
+ si empezamos a hablar de que el término 
+ software nace en el año 1968 es como que 
+ nos parece que hace mucho más tiempo del 
+ que nosotros tenemos en mente que es con 
+ lo que se empieza a construir software 
+ oa hacer software de manera más máxima 
+ en 1975 esto que nosotros ponemos como 
+ un poco de historia son algunos hechos 
+ que son relevantes que incluso han 
+ ocurrido hace mucho tiempo y son 
+ relevantes al día de hoy aunque uno no 
+ lo crea en 1975 el frederick brooks 
+ escribe un libro que se llama the meat y 
+ kallman mons o el mítico hombre mes que 
+ si no lo leyeron es un libro si es en 
+ general digamos si lo buscan en la web 
+ lo van a encontrar en inglés pero es un 
+ libro muy chiquitito verdad 
+ es como muy fácil de ver y básicamente 
+ brooks lo que hace es plantear todos los 
+ errores en la gestión tradicional de 
+ proyectos de software que se suelen 
+ cometer y que hace que los proyectos de 
+ software fracasen y en verdad brooks lo 
+ hace a partir de su propia experiencia 
+ personal y de su propio fracaso a la 
+ hora de descripciones proteicos de eso y 
+ entonces los tres primeros capítulos son 
+ les diría que como un corolario de 
+ algunas cosas que al día de hoy siguen 
+ pasando de gamón y entonces una de las 
+ cosas que plantea groups una de las 
+ máximas que él plantea es por ejemplo 
+ que añadir gente a un proyecto que está 
+  lo retrasa aún más 
+ y explico un poco esto de que bueno de 
+ que si una embarazada necesita nueve 
+ meses para tener un bebé claramente no 
+ nos sirve poner nueve mujeres 
+ embarazadas para tener un bebé en un mes 
+ y entonces hace algunas asociaciones con 
+ esto que parece como burdo pero que en 
+ verdad que los que vemos y lo digo yo 
+ porque yo he tenido esa experiencia los 
+ que hemos gestionado proyectos de manera 
+ tradicional muchas veces hemos caído a 
+ veces en estas cosas en en la vorágine 
+ de que queremos que cumplen los tiempos 
+ y queremos recuperar algunas cuestiones 
+ que nos parece que siguiendo estas 
+ premisas lo vamos a lograr y él me da no 
+ funciona así que ese libro en verdad se 
+ los recomiendo sobre todo si a ustedes 
+ les interesa lo que tiene que ver con la 
+ gestión de proyectos 
+ si bien por supuesto esté orientado la 
+ gestión tradicional de proyectos en 
+ verdad es como muy interesante y muy 
+ copado 
+ aun habiendo pasado 75 son ace n 77 así 
+ que este hombre escribió y yo que ya soy 
+ vieja ni había nacido imagínese que ya 
+ en ese momento venimos arrastrando 
+ algunos errores lo que tiene que ver 
+ comprar los actores software que lo 
+ seguimos repitiendo se ve que está 
+ costando comprender 
+ en el año 78 aparece un paradigma que se 
+ llama análisis estructurado 
+ y ustedes me vieron yo cuando estudió en 
+ la facultad estudia lo que se llamaba 
+ análisis estructurados modernos que es 
+ el predecesor inmediato a paradigma 
+ miento de objetos que es lo que 
+ finalmente hace ya como unos cuantos 
+ años es sobre lo que se trabaja fíjense 
+ que en este en esta línea temporales 
+ aparece en 1990 y a partir de ahí esos 
+ trabajos con los programas de viento a 
+ objetos pero de alguna manera se 
+ estructura o implica por lo menos 
+ empezar a modelar lo que tiene que ver 
+ con la construcción del software 
+ samir puede ser que esté levantando una 
+ mano 
+ ok disculpándose probable 
+ no es probable 
+ yo 
+ a partir de este momento del año 
+ de la década del 80 iría empiezan a 
+ aparecer los primeros grandes errores de 
+ software y errores de software que 
+ empiezan a costar incluso vidas porque 
+ el software se empieza a incorporar en 
+ la vida de las personas y a partir de 
+ ahí ya los errores del software no son 
+ simplemente de errores de cosas que 
+ ocurren en un cuarto sino que afecta a 
+ la vida de las personas 
+ en algunas cuestiones pues cosas más 
+ trágicas en otras menos pero empiezan a 
+ aparecer problemáticas relacionadas con 
+ esto después brooks se escribe un paper 
+ que nosotros se lo hemos dado varias 
+ veces para que ustedes lo lean que se 
+ llama no silver bullet o no hay balas de 
+ plata y entonces habla de las 
+ características esenciales del software 
+ y de lo que tiene que ver con la 
+ problemática de construir software y se 
+ llama no hay bala de plata porque lo que 
+ dice no hay más agrede resolver de una 
+ manera 
+ con un único disparo toda la 
+ problemática críticas escenciales en el 
+ software de hecho lo que tiene que ver 
+ con la orientación objeto surge de 
+ alguna manera como una respuesta en 
+ algún momento existe acá si tenemos la 
+ verdad de plata y en algún momento 
+ groups responde dice ojo porque por esto 
+ por esto por esto la orientación un 
+ objeto no es una bala de plata y bueno 
+ ahí quedamos como dando vueltas con es 
+ plática 90 surge internet y eso sí en 
+ verdad es una revolución como 
+ de hecho yo yo yo tengo el recuerdo 
+ entre la facultad e cursar en el año 95 
+ y probablemente usted tenía bien nacido 
+ pero seguramente que casi todos no 
+ habían nacido cuando yo entré cursar en 
+ la facultad creo que yo estaba en 
+ segundo o en tercer año y empezó a 
+ aparecer internet como disponible los 
+ hogares y poner en común es súper 
+ revolución que podemos entrar no sé al 
+ museo del louvre cinema por dos o tres 
+ puestos más no era ni siquiera lo que 
+ nos imaginamos ahora pero bueno en 
+ verdad partir de ahí ya nos parece 
+ querer creído y le damos y es sobre todo 
+ lo que podemos hacer pero crecimos 
+ supercopa después aparece ese bebé y se 
+ m primero y después el meme y que son 
+ modelos de madurez del software que 
+ apuntan a lo que tiene que ver con la 
+ calidad del software 
+ en respuesta un poco esto de construir 
+ software de calidad y en respuesta a 
+ ciertas problemas 
+ y ocurriendo y que sí ocurriendo con los 
+ proyectos de que se alarga más en el 
+ tiempo de que cuestan de que los 
+ presupuestos se nos van de que terminan 
+ saliendo más plata de lo que habíamos 
+ pensado originalmente y bueno ya en el 
+ 2000 aparece el manifiesto ágil que es 
+ parte de gran parte de 
+ de lo que nos junta en el contexto de 
+ esta materia y lo que tiene carga con el 
+ ine aplicado con textos software porque 
+ ya vamos a ver que el ine en realidad es 
+ un concepto que no es no se circunscribe 
+ al mundo del software sino que a partir 
+ de más o menos el año 2003 se aplica al 
+ software esto simplemente como para 
+ hacer un pantallazo y para decir bueno a 
+ ver cuando hablamos del software cuando 
+ hablamos de como esto ha ido 
+ evolucionando si bien en principio uno 
+ imagina que todo este desarrollo fue 
+ después del 68 pero en verdad que es una 
+ disciplina muy joven digamos entonces en 
+ verdad que muchas de las dificultades 
+ que se tienen primero tienen que ver con 
+ esto de que construir software es algo 
+ diferente de construir cualquier tipo de 
+ productos pero además que en verdad no 
+ tiene tantos años de desarrollo de 
+ experiencia como quizás otras 
+ disciplinas que puedan 
+ andar con la web 
+ todos estas sly que nosotros tenemos por 
+ acá es simplemente como para 
+ [Música] 
+ hasta que dice al término de nueve meses 
+ tenemos nueve lo que no es un promedio 
+ de un bebé por mes si el promedio sí 
+ pero cuando nosotros si yo te digo el 
+ primero de mayo dame un bebé el 31 de 
+ mayo el 31 de mayo no lo vas a tener y 
+ ese el punto de que cuando nosotros 
+ ponemos fecha 
+ y también no ocurre una más 
+ bien bueno es light son simplemente 
+ porque por ahí ustedes vean lo que tiene 
+ que ver con esto de las marcas y cómo 
+ han evolucionado en el mundo a medida 
+ que pasan los años y el instinto obtener 
+ mi marca fíjense que lo que está pintado 
+ en amarillo y concretamente son marcas 
+ que tienen que ver con el software de la 
+ industria del software y fíjense como en 
+ el 2006 el ranking lo encabezan o sea la 
+ única que tiene que ver con la industria 
+ del software de microsoft y fíjense lo 
+ que pasa en el 2017 y el día de hoy la 
+ tendencia continua no entonces bueno en 
+ principio 
+ esto voy a hablar si tenemos para 
+ mencionar incluso en términos nacionales 
+ unicornios y lo que lo que el software 
+ viene como empujando no 
+ en 2019 las vías del mundo 
+ bien algunos problemitas que tenemos 
+ cuando desarrollamos software 
+ son como digamos la mochila o la carga 
+ pesada que nosotros seamos siempre a la 
+ hora de la construcción del software hay 
+ uno que tiene que ver digamos clic como 
+ el dolor de cabeza de los ceos de los 
+ gentes finanzas que es más tiempos y 
+ costos de lo presupuestado es como para 
+ los que en algún momento hemos tenido 
+ que gestionar los proyectos es una carga 
+ pesada de llevar digamos pero 
+ lamentablemente es algo que se repite 
+ indefectiblemente a la hora de gestionar 
+ proyecto ustedes joaquín y mica vayan 
+ dándome letras porque también 
+ poner algunos ejemplos de todo esto 
+ nuevo pero no pero nosotros siempre 
+ presupuestos triples y delgadas 
+ 3 
+ bueno problemas para que la versión 
+ final del producto satisfaga las 
+ necesidades del cliente o sea no 
+ solamente que no sale más caro y que nos 
+ lleva más tiempo sino que cuando se lo 
+ damos al cliente 
+ [Música] 
+ al cliente no le gusta y ojo no al 
+ cliente no le gusta no es lo que 
+ esperaba y probablemente es lo que nos 
+ ha pedido y no necesariamente nosotros 
+ lo entendimos mal ahí en el medio puede 
+ pasar de todo 
+ el tema de la escalabilidad del software 
+ el tema de poder extenderlo poder 
+ adaptar lo que el software siga vigente 
+ en el tiempo muchas veces incluso se 
+ construye software de partiendo de un 
+ prototipo y haciendo que más o menos 
+ funcione imagínense en términos 
+ arquitectónicos poder hacer que eso 
+ escale ni hablemos de la documentación y 
+ cuando hablamos de documentación 
+ hablamos también hasta de tener 
+ comentarios en el código no sé no 
+ imaginemos que las documentaciones el 
+ bodoque pesado que que nadie actual y si 
+ kennedy consulta de por qué no es 
+ necesariamente así sí 
+ y bueno y la mala calidad del software 
+ que indefectiblemente y que incluso 
+ cuando cuando nosotros hagamos de mala 
+ calidad y cuando por ahí tenemos que 
+ explicar a mí me ha pasado muchas veces 
+ digamos de que el usuario o el cliente 
+ entiende como que el software de calidad 
+ está relacionado con la cantidad de 
+ testing que yo le hago fíjense en el 
+ lugar donde nos paramos vamos a ver que 
+ no es así que no tienen nada que ver con 
+ eso pero bueno en verdad es como 
+ complicado digamos 
+ acá un racconto digamos de los errores 
+ informáticos más costosos de la historia 
+ estar ahora en el detalle todo uno de 
+ ellos pero en verdad que se los dejamos 
+ air 3 esto porque importante lo del 
+ cohete ariane busquen lo que vídeo eso 
+ logrará que es increíble digamos ahí hay 
+ algunos aspectos que son interesantes 
+ acá todo parece como muy viejito es más 
+ los más nuevos que figura por acá es 
+ 2010 2000 
+ pero hay para hacer dulce las 
+ migraciones por el año 2000 a mí me tocó 
+ participar en eso pero sí que parecía 
+ que se acababa el mundo de la 
+ información y nunca pasó nada de ama 
+ bueno hay para hacer dulce con eso 
+ interesante acá algo más estos son más 
+ nuevos 
+ y acá creo que no habíamos incluido pero 
+ lo que pasó con los aviones los macs 
+ estos que estuvieron me sale la marca 
+ ahora voy que estuvieron digamos 
+ suspendidos de uso por un error en el 
+ software no tiene nada que ver la parte 
+ d 
+ física de la construcción bueno y de 
+ última digamos y estos errores sólo me 
+ acordó se acabe hemos incluido algunos 
+ pero incluso algunos tienen que ver con 
+ con vidas humanas también no se los 
+ dejamos como porque lo cogen un poco y 
+ bueno y se involucra en esta buena ya 
+ todo eso cuando no normal y qué pasa 
+ cuando nos va bien porque alguna vez 
+ también nos va bien y algunas veces 
+ también creamos software que que sirven 
+ que sean exitosos y que nos permiten 
+ ganar plata de agua no siempre 
+ no no va bien hay algunos aspectos que 
+ son claves y que justamente son las 
+ premisas para las nuevas formas de 
+ trabajar por ejemplo para los frame 
+ ahora si les parece como por ejemplo 
+ link o como por ejemplo scram que lo que 
+ hace es decir che cuando nos va bien 
+ porque nos va bien nos va bien por estos 
+ dolores tratemos de ver cómo hacemos 
+ para obligar a que estos factores que 
+ son factores de éxito que en embebidos 
+ dentro de nuestro proceso de desarrollo 
+ de software 
+ fíjense que uno de los aspectos claves 
+ tienen que ver con los requeridos 
+ fíjense que el 1 y el 
+ bien 
+ los requerimientos claros pero además el 
+ involucramiento del usuario porque el 
+ involucramiento del usuario hace también 
+ y los requerimientos pueden ir madurando 
+ conforme nosotros vamos construyendo el 
+ producto de software 
+ la otra parte tiene que ver 
+ con la planificación y expectativas 
+ realistas no hasta que hacemos siempre 
+ de ser extremadamente optimistas y 
+ pensar que todo va a salir bien y que no 
+ vamos a tener ningún error cuando 
+ momento 
+ ir midiendo el avance tener 
+ retroalimentación de retroalimentación 
+ es uno de los aspectos fundamentales a 
+ la hora de 
+ poder corregir digamos lo que no 
+ funcione bien y algunas otras cuestiones 
+ como 1.7 que tienen que ver con la 
+ expansión 
+ digamos no están 
+ el manifiesto así lo que tiene que ver 
+ con scrum habla de equipos que tienen 
+ esas habilidades de esa competencia 
+ y juego normal y bueno por contrapartida 
+ sería el loco 
+ todos los requerimientos cambian en el 
+ tiempo 
+ [Música] 
+ frente 
+ si no fuere browser 
+ efe 
+ su conexión 
+ ahí me escuchan perfecto 
+ y se ve el slide 
+ si se ve perfecto 
+ estos son los warning íntimas en el 
+ banquete de la posta 
+ diciendo basta 
+ no al límite conclusión fundamental que 
+ lo empezamos a hablar cuando dijimos que 
+ el pop no era solamente el código saber 
+ pero 
+ [Música] 
+ y nosotros queremos tener éxito 
+ construyendo software 
+ con saber programar no nos alcanza y 
+ lejos estamos de que eso sea suficiente 
+ si alguna duda estacada 
+ no no 
+ bien y que vive software la materia en 
+ contexto cómo hacemos para dar contexto 
+ a todo esto conceptual que venimos 
+ hablando hasta ahora y como qué es lo 
+ que vamos a ver en la materia bueno 
+ nosotros podríamos decir que la 
+ ingeniería de software lo podríamos 
+ dividir en tres grandes ramas las 
+ disciplinas ticas las disciplinas de 
+ gestión y las disciplinas de soporte de 
+ las disciplinas técnicas en el contexto 
+ de esta materia sobre lo único que vamos 
+ a ver y vamos a trabajar es sobre el 
+ testing si el resto de los aspectos que 
+ tienen que ver con las actividades que 
+ también se llaman actividades ingeniería 
+ son las que ustedes vieron en asia este 
+ diseño y nosotros arrastramos por 
+ sabidas solamente vamos a trabajar en el 
+ contexto de esta materia en lo que tiene 
+ que ver con testing dentro de las 
+ disciplinas técnicas 
+ pero si vamos a trabajar en el contexto 
+ esta materia hablando de disciplina de 
+ gestión planificación de proyecto y 
+ monitoreo y control en la clase del 
+ viernes vamos a hablar de planificación 
+ de proyectos y monitoreo y control de 
+ proyectos tradicionales de gestión 
+ tradicional o de proyectos basados en 
+ procesos definidos pero no vamos a ver 
+ el proceso en términos de las 
+ disciplinas técnicas sino que lo vamos a 
+ ver desde la parte de la gestión del 
+ proyecto de la administración del 
+ proyecto y después disciplinas de 
+ soporte que también las vamos a ver en 
+ el contexto de la materia que también se 
+ conocen como disciplinas que se sirven 
+ de paraguas la gestión de configuración 
+ el aseguramiento de la calidad y las 
+ métricas esas tres también las vamos a 
+ ver dentro de el contexto de la tele con 
+ lo cual exceptuando lo que vamos a 
+ trabajar de testing podemos asumir que 
+ vamos a trabajar fuertemente en lo que 
+ tiene que ver con la gestión y las 
+ disciplinas de soporte si no con las 
+ actividades 
+ de ingeniería 
+ y 
+ yo no sé si quieren hacer un break de 
+ cinco minutos quieren seguir queda una 
+ una parte de exista de la parte de la de 
+ la parte teórica de la clase de hoy que 
+ tiene que ver con el proceso de software 
+ que en verdad de repaso y con el proceso 
+ definido por sus procesos empíricos que 
+ es lo que nos va a dar el pie para la 
+ clase de libia acá alguien dice sigamos 
+ yo lo hice un re crédito vendría bien 
+ 15 20 minutos máximo 
+ también me parece que sí 
+ bueno yo abandono los dejo en manos de 
+ joaquín y de mi caja y nos vemos en la 
+ clase del viernes asumiendo que lo que 
+ les van a contar los chicos ahora va a 
+ ser el input para lo que vamos a ver en 
+ la clase del viernes a las 18 así que 
+ vemos el viernes a las 18 en el link que 
+ está en la ub 
+ ahí les dejo de compartir jugar para que 
+ puedan compartir debes darle gracias nos 
+ vemos 
+ [Música] 
+ bueno voy a intentar compartir la 
+ pantalla ahora h 
+ me dijeron 
+ [Música] 
+ ah 
+ [Música] 
+ y 
+ y se ve la presentación a castings l 
+ pero bueno y será de 10 los tengo que el 
+ costado bueno nuevamente les recuerdo 
+ por fa el tema de mostrarme sus caras y 
+ charlar preguntar si quieren iniciar un 
+ córner no hay ningún problema la idea es 
+ no caer en instrucción netflix y se 
+ conectaron a haber una en capítulos que 
+ están viendo en la otra pestaña un 
+ capítulo aparte modo de dictar esos bien 
+ vamos a repasar un poco en los conceptos 
+ de proceso ciclo de vida i 
+ modelos empíricos y definidos para 
+ empezar un proceso de software como está 
+ definido esto vamos a recordarlo con un 
+ conjunto estructurado de actividades que 
+ nos permitan en base a un conjunto de 
+ entradas producir alguna salida pero la 
+ palabra clave acá es estructurada si 
+ vamos a ver qué diferentes diferentes 
+ concepciones de lo que es un proceso de 
+ desarrollo un producto de software y en 
+ base a eso el objetivo siempre va a ser 
+ obtener un producto de software o quizás 
+ un servicio asociado pero vamos a tener 
+ diferentes inputs no solamente los 
+ requerimientos que es la entrada en sí 
+ que va a definir o qué va a darle los 
+ límites al alcance de nuestro producto 
+ sino que también vamos a tener otros 
+ elementos colaborando como las personas 
+ efectivamente sabemos que el principal 
+ capital o el principal recurso que se 
+ consume o que sea el cual se usó para 
+ producir un producto de software mal de 
+ las redundancias son las personas y los 
+ recursos humanos y obviamente tenemos 
+ materiales energía equipamiento el 
+ procedimiento 
+ tenemos más licencias tenemos otros 
+ software asociados 
+ etc etc pero hay muchas cosas que van a 
+ estar colaborando para poder transformar 
+ ese requerimiento esa definición que 
+ puede estar explícita o que puede estar 
+ implícita y va a ser nuestro rol poder 
+ extraerla y materializarla en 
+ efectivamente un producto de software 
+ dentro de algunas de las definiciones 
+ tenemos la triple secuencia de pasos 
+ ejecutados para un propósito dado que es 
+ algo bastante general y poco preciso 
+ mientras que la de smm en conjunto 
+ actividades metros prácticas 
+ transformaciones para desarrollar o 
+ mantener software y productos asociados 
+ y ya ahí tenemos un poquito más de 
+ conceptos para poder vincular lo dentro 
+ de un proceso vamos a encontrar la parte 
+ de procedimientos y métodos herramientas 
+ y personas que hacen uso de esas 
+ herramientas siguiendo sus 
+ procedimientos y esos métodos para poder 
+ efectivamente producir un producto de 
+ software entonces tenemos un mix pero la 
+ clave aire es la estructura dentro de 
+ ese proceso tenemos claramente definidas 
+ las responsabilidades claramente 
+ definidas las actividades las 
+ herramientas y en base a eso las 
+ personas transforman esos requerimientos 
+ en el software 
+ café de por medio 
+ tenemos diferentes tipos de procesos de 
+ la clasificación principal está entre 
+ definidos versus empíricos empíricos 
+ bienes del empirismo que es una 
+ corriente en la cual centramos el foco 
+ en la experiencia y la experiencia de 
+ quién de quienes me aprecia o de quién 
+ se imaginan que es válida la experiencia 
+ fuera producir un producto de software 
+ qué más 
+ de la gente como lo que viene a ser bien 
+ sería usuarios programadores líderes del 
+ proyecto gerencia de la empresa que está 
+ a cargo de los de los líderes del 
+ proyecto por ejemplo o de todo lo que es 
+ el paro 
+ en cuál experiencia leoncio fíjense que 
+ hay diferentes diferentes experiencias 
+ experiencias de negocio también que otro 
+ tipo de experiencias podemos tener 
+ en que más pueden tener el equipo de 
+ trabajo o la gente que usted menciona 
+ los roles mencionaron experiencias 
+ experiencia usuario 
+ qué más 
+ en el proceso mismo que están usando 
+ para construir software y puede ser 
+ bastante clave que no sé por qué no está 
+ salían lo que más 
+ aprenden de los errores 
+ sin necesariamente van a tener que 
+ aprender de los errores pero lo que 
+ viven la experiencia definitiva el 
+ expertise técnico que es totalmente 
+ necesario y es una de las claves para 
+ producir un producto de calidad entonces 
+ fíjense que es necesario conocer un poco 
+ de todo no tener experiencia en el 
+ negocio tener experiencia en la parte 
+ técnica en cómo tengo que desarrollar 
+ cómo voy a manipular esas herramientas 
+ para efectivamente poder aprender de los 
+ errores y ya vamos a ver un poquito más 
+ en donde entra esa parte del aprendizaje 
+ y para poder engancharlo a esta parte de 
+ los procesos empíricos está basado en 
+ eso en poder capitalizar la experiencia 
+ de los diferentes actores que estén 
+ involucrados en esta producción para 
+ poder maximizar la calidad de lo que 
+ estamos realizando 
+ en contraste con los procesos definidos 
+ en los cuales se basan en una concepción 
+ que está digamos basada en el modelo 
+ industrial en cuando se empezó con el 
+ fordismo de las cadenas de producción en 
+ el cual vos decís tiene un conjunto de 
+ impulso un conjunto de recursos de 
+ entrada que van a ser manipulados en una 
+ línea de producción en un conjunto dado 
+ de actividades en las cuales van a 
+ producir siempre conjuntos de entradas 
+ las condiciones sean repetibles el mismo 
+ resultado de salida yo creo es un poco 
+ ingenuo para lo que es la producción de 
+ software porque sabemos por experiencia 
+ ya sea directa o indirecta que la 
+ producción de software difícilmente 
+ pueda llegar encapsularse o 
+ simplificarse en un conjunto de entradas 
+ que aplicando las mismas 
+ transformaciones producen una misma 
+ salida pero más allá de eso hay 
+ diferentes corrientes y procesos 
+ definidos que confían en esa premisa 
+ para poder llevar adelante un proyecto 
+ de desarrollo de software 
+ dentro de los procesos definidos lo 
+ mismo que les comentaba mismas entradas 
+ produciendo una misma salida dentro del 
+ mismo conjunto de condiciones y bueno 
+ ustedes ya conocen a ver los procesos 
+ definidos me suena que deben tener 
+ experiencia con alguno particular 
+ el propio tonificados de pagos y más si 
+ sale de cabeza de los que hicieron un 
+ diseño imaginarás que lo deben conocer 
+ en profundidad ya que felizmente o 
+ infelizmente pelo 
+ dentro de los procesos empíricos ya 
+ vamos a estar viendo dentro de una de 
+ las las materias de las disciplinas y 
+ dentro de las unidades que vamos a 
+ trabajar en el cuatrimestre vamos a 
+ hacer foco en procesos empíricos y 
+ siempre los vamos a tomar en contraste 
+ como los procesos empíricos implementan 
+ este tipo de funcionalidad o es de este 
+ tipo de características en contraste con 
+ los procesos definidos que viene a ser 
+ la concepción más clásica 
+ dentro de los procesos empíricos en los 
+ cuales vamos a estar haciendo bastante 
+ énfasis confiamos en que las variables 
+ no pueden ser definidas o controladas en 
+ su totalidad es decir que estamos dentro 
+ de un ambiente complejo en el cual 
+ quizás no todo lo que está en juego esté 
+ bajo nuestro control por eso vamos a 
+ tener que tener la cintura necesaria 
+ para poder ir adaptándonos a esas 
+ diferentes condiciones cambiantes del 
+ proyecto para poder garantizar la 
+ producción de un software de calidad al 
+ final de su ejecución en este caso en 
+ particular se basan en la experiencia y 
+ en el aprendizaje y tienen una 
+ característica particular que los 
+ diferencia con los procesos definidos 
+ que es como los puedo mejorar en un 
+ proceso definido claramente si voy si 
+ tengo las mismas entradas y busco las 
+ mismas salidas para poder mejorar el 
+ proceso voy a ir a cada una de esas 
+ etapas intermedias les voy a tratar de 
+ optimizar y necesariamente el resultado 
+ va a ser óptimos y optimizó las etapas 
+ intermedias en que los procesos 
+ empíricos 
+ el punto de mejora de procesos 
+ difícilmente sea tan tangible como lo es 
+ en un proceso definido entonces voy a 
+ tener que ir atacando diferentes 
+ diferentes aristas para poder optimizar 
+ un proceso empírico y principalmente 
+ centrarme en las personas que son la 
+ clave del empirismo son las que 
+ mantienen las que capitaliza en esa 
+ experiencia y esa capitalización de la 
+ experiencia y lo voy a poder hacer en un 
+ ciclo de realimentación en el cual yo 
+ voy a tomar información voy a 
+ contrastarla con lo que esperaba obtener 
+ contra mi hipótesis y en base de subir a 
+ readaptar ese proceso que hubieron 
+ modificando para poder mejorar hasta ahí 
+ vamos bien 
+ libros buenos excelentes 
+ bueno tenemos este ciclo que el que yo 
+ les contaba y arrancamos con una 
+ hipótesis empezamos la etapa de 
+ construcción en base a algunos puntos en 
+ los cuales podemos frenar y inspeccionar 
+ tomamos algunas mediciones saltamos un 
+ poco de información hacemos 
+ retrospectiva revisamos cómo salió el 
+ resultado de esa construcción y en base 
+ a esa revisión en la cual contrastamos 
+ nuestra hipótesis iniciemos los 
+ resultados obtenidos podemos adaptar ese 
+ proceso y seguir construyéndola y eso se 
+ basa en una concepción en la cual 
+ necesitamos que la repetición no porque 
+ si no vamos a poder repetir este ciclo 
+ difícilmente podamos capitalizar lo que 
+ es la parte de adaptación en ese proceso 
+ entonces ya vamos a ver que dentro de 
+ los procesos empíricos se da mucho un 
+ ciclo de vida muy particular y que lo 
+ vamos a estar repasando dentro de lo que 
+ es 
+ ciclos de vida 
+ más o menos alguien se acuerda de lo que 
+ son 
+ [Música] 
+ ah 
+ ahí me pueden contar un poco que es un 
+ ciclo de vida o como se relacione por un 
+ proceso 
+ es no me acuerdo bien la definición pero 
+ es la forma en la que el proyecto va 
+ ejecutando los procesos en diferentes 
+ pasos por ejemplo el ciclo de vida en 
+ cascada uno después decir lo evidente en 
+ espiral litera tivo incremental es eso 
+ lo que estamos hablando va por ahí si va 
+ por ahí este está bueno digamos que es 
+ mencionado diferentes conceptos y 
+ tratado de relacionarlos por un lado 
+ tenemos el proyecto por otro lado 
+ tenemos el proceso y por otro lado el 
+ ciclo de vida viene a ser una 
+ abstracción por eso es tan bueno como lo 
+ engancha este porque el ciclo de vida va 
+ a definirme cuáles son las etapas que 
+ debe tener y cuál es el orden tiene esas 
+ dos esas dos características una 
+ definición de fases y un orden y luego 
+ hay procesos que me va a decir cuáles 
+ son las etapas en particular y cómo se 
+ desarrollan va a implementar ese ciclo 
+ de vida para poder definir el orden 
+ picado 
+ y ahí entra en algunos modelos como los 
+ tubos mencionaste mauricio como por 
+ ejemplo literatura experimental los 
+ recursos o los secuenciales no prescribe 
+ las cajas ya vamos a mencionarlos un 
+ poquito más pero tengan en cuenta eso 
+ tiene dos características en particular 
+ que son las fases y el orden de esas 
+ fases y cómo se tiene que llevar 
+ adelante pero es una abstracción no me 
+ dices que tengo que hacer en particular 
+ quién lo va a hacer cuáles son las 
+ herramientas cuáles son los 
+ procedimientos no me dice el programa 
+ irá metiendo a otra si no estaba 
+ relacionada también con el tema de 
+ inicio elaboración construcción que en 
+ la parte denis que es donde se capturan 
+ los requerimientos en la parte de 
+ construcción tangencialmente relacionado 
+ a propuestas haciendo referencia al 
+ proceso unificado particularmente me 
+ parece en el cuadro a un modelo en 
+ particular qué modelo de ciclo de vida 
+ implemente el proceso explica 
+ y también podríamos llegar a 
+ implementarlo 
+ de otras formas pero casualmente vamos a 
+ tener esta definición de fases y 
+ diferentes criterios del ordenamiento 
+ está relacionado con eso el ciclo de 
+ vida es la abstracción que te dice la 
+ fase y el orden y luego el proceso va 
+ puede implementarse con diferentes 
+ ciclos de vida para poder decirle cheng 
+ a esta etapa en particular la vas a ser 
+ así con estas herramientas con estas 
+ personas con estos roles y con estos 
+ metros y el ciclo de vida decir cuándo y 
+ encadenando con qué 
+ claro 
+ hay clasificaciones de los ciclos de 
+ vida algunas estuvieron sabiendo 
+ mientras charlábamos secuenciales en las 
+ cuales se basan una etapa después de 
+ otra y no tienen generalmente retorno 
+ hay algunas que pueden llegar a tener 
+ como por ejemplo el ciclo de vida este 
+ en cascada con retroalimentación podemos 
+ ir hacia atrás para poder darle un poco 
+ de información en la siguiente caída 
+ interactivos incrementales y vamos a 
+ estar trabajando mucho con los ciclos de 
+ vida iterativo simple mentales en las 
+ unidades este posteriores porque 
+ casualmente los procesos empíricos y 
+ algún la mayoría implementan ciclos de 
+ vida interactivas incrementales para 
+ poder dar esta instancia de adaptación y 
+ mejora del proceso y de esa forma 
+ podemos ir en cada una de las 
+ iteraciones capitalizando lo que 
+ aprendemos mejorando la experiencia de 
+ cada uno de los miembros del equipo y 
+ siguiendo una integración y una 
+ interacción más para poder incrementar 
+ ese producto 
+ y los recursos se utilizan para casos 
+ también bastante particulares como por 
+ ejemplo proyectos que tienen altos 
+ riesgos y se van a encontrar en el ciclo 
+ de vida en que se basa el perdón el 
+ ciclo de vida en espiral que se basa la 
+ mitigación de riesgos el ciclo de vida 
+ en b que también permite hacer una 
+ vuelta en particular de cada una de las 
+ etapas para poder ir avanzando en el que 
+ los incrementos en cada uno de esos 
+ tienen sus particularidades según las 
+ características del proyecto y del 
+ producto que se debe construir se va a 
+ elegir el ciclo de vida que vayan a 
+ implementar para poder llevarlo adelante 
+ de la mejor forma posible eso tiene que 
+ tener en cuenta que siempre depende 
+ mucho en este tiempo hay un proceso en 
+ particular un perdón lo vivo en 
+ particular que deben utilizar en tales o 
+ cuales condiciones cada uno tiene sus 
+ ventajas sus beneficios o sus costos 
+ asociados y van a tener que saber elegir 
+ cuál es el que corresponde o que mejor 
+ correspondería implementar en una 
+ situación 
+ con la mano levantá solo 
+ y no logró distinguir la diferencia 
+ entre recursivo y el iterativo 
+ incrementar el recurso se basa en poder 
+ ir metiendo de un poquito más adentro en 
+ cada una de las vueltas el iterativo 
+ incremental repite y después avanza 
+ repite y después lo incrementa un 
+ poquito más es como que vos vas armando 
+ como si fuera un digamos no no hay que 
+ bajar agregándole diferentes módulos en 
+ cada una de las iteraciones sino que les 
+ vas poniendo incrementos a ese mismo 
+ producto que van llegando después a lo 
+ que viene a ser el producto final dentro 
+ de los recursos vos tomás una 
+ característica que generalmente están 
+ por ejemplo orientados a los riesgos 
+ toman una característica en particular o 
+ un riesgo en particular hace una 
+ integración que te permite solucionarlo 
+ y después cometemos poco más adentro 
+ habiéndolo solucionado hace otra 
+ iteración y más como indagando en 
+ profundidad 
+ eso es casualmente digamos por ahí va la 
+ diferencia 
+ cuál sería la ventaja del recurso con 
+ proyecto alternativa incrementar y las 
+ desventajas en realidad depende mucho 
+ y digamos el entorno en particular del 
+ proyecto en el cual vos te estás 
+ acercando 
+ generalmente los recursos permiten 
+ atacar problemáticas específicas como 
+ por ejemplo prototipado o riesgos 
+ entonces te permiten centrarte quizás en 
+ atacar un riesgo en particular 
+ eliminarlo entonces después avanzamos en 
+ los premios nos vamos metiendo más 
+ adentro del desarrollo de este producto 
+ los interactivos incrementales se basan 
+ en generalmente cuando no tenemos una 
+ visión muy clara a priori de lo que 
+ necesitamos construir y ya vamos a ver 
+ cuáles son los dominios de los problemas 
+ de los cuales se puede presentar eso nos 
+ permiten ir haciendo iteraciones en las 
+ cuales llegamos finalmente con un 
+ producto que quizás en un incremento del 
+ producto porque una porción pero que nos 
+ permite capitalizar y después con la 
+ retroalimentación feedback con respecto 
+ a eso y mientras tanto también ir 
+ dejando un poco más claro qué es lo que 
+ necesito para etapa siguiente entonces 
+ voy haciendo diferentes interacciones 
+ para ganar información y transformarlas 
+ después en un incremento que va 
+ acumularse para llegar a producir el 
+ producto final 
+ más o menos por ahí se tiene un poco más 
+ era buenísimo 
+ para ir cerrando un poco con respecto a 
+ esto que siglos de vida conocen 
+ estuvimos charlando ya acerca de los que 
+ ustedes conocen y esta es la parte que 
+ por ahí interesa un poco más en base a 
+ lo que estuvimos charlando porque me 
+ podrían decir ustedes que vendría a ser 
+ la relación entre producto proceso y 
+ ciclo de vida 
+ al igual que la pregunta papá pues sería 
+ la relación entre producto el concepto 
+ del producto de software que los tuvo 
+ tardan un poquito lado antes de que 
+ arrancara 
+ el concepto del proceso y el concepto 
+ del ciclo de vida como nos podrían 
+ relacionar en un tweet por ejemplo 
+ yo diría que para construir un producto 
+ se utiliza un proceso y ese proceso está 
+ como dirigido por un ciclo de vida 
+ buenísimo perfecto tengan en cuenta 
+ siempre esa esa diferenciación el 
+ proceso es una implementación del ciclo 
+ de vida es que la vida es una 
+ abstracción es lo que nos va a guiar en 
+ cuáles son las etapas y su orden 
+ mientras que el proceso nos va a decir 
+ cómo hacerlo cada uno y el objetivo 
+ final por supuesto de construir un 
+ producto de software dentro de otra de 
+ las unidades que casualmente creo que es 
+ una de las primeras que ustedes van a 
+ estar viendo van a ver un poco más en el 
+ concepto para indagar un poco más en el 
+ concepto del proyecto del software y 
+ cómo se relacionan este tipo de 
+ conceptos dentro del marco de un 
+ proyecto de desarrollo de software así 
+ que tengan en cuenta estos conceptos que 
+ tuvimos hablando recién cuáles son las 
+ abstracciones cuáles con la 
+ implementación en cual está el objetivo 
+ para que después cuando bojan con el 
+ lawn los componen la unidad de 
+ componentes un proyecto del software 
+ puede enganchar los en ese cero 
+ bueno decirlo habilidades más si tienen 
+ ahí una referencia a la bibliografía y 
+ finalmente en la bibliografía general 
+ este que vamos a estar utilizando en la 
+ cátedra crisis ya les hablo un poco la 
+ ley antes alguien tiene alguna otra 
+ consulta con esto terminamos el repasito 
+ de proceso a ciclo de vida 
+ diferenciación 
+ alguna duda consulta 
+ bueno era bastante grande pero yo les 
+ dije que iban a ser 15 minutos más o 
+ menos 
+ bueno gente con esto estamos terminando 
+ la clase comentarios ya tienen en la ub 
+ y les hayamos pasado en el chat del zoom 
+ voy a ponerles en la presentación así 
+ porque de por acá es para compartirlo 
+ fantástico 
+ bien tienen en la v y en el chat el 
+ formulario de los grupos en el 
+ transcurso de la semana también le vamos 
+ a estar subiendo la guía de trabajos 
+ prácticos evaluables que es la que vamos 
+ a utilizar en clase para el desarrollo 
+ de los prácticos también van a tener una 
+ guía de trabajos prácticos resueltos 
+ pero poder consultar en base a eso 
+ cuáles son las distintas propuestas con 
+ el enunciado y la solución son similares 
+ a los que después vemos también los 
+ parciales así que aprovechen los 
+ personalmente si bien en la primera 
+ slide de presentación de los docentes 
+ salían mails yo no respondo los mails y 
+ el único en medio de contacto que vamos 
+ a mantener el desarrollo le pulsa va a 
+ ser el foro de la ub para el lado de los 
+ prácticos y si quieren éste discutir 
+ algún tema o me consulta el práctico 
+ utilizamos la ub generalmente le voy a 
+ pedir que si son consultas relacionadas 
+ con los trabajos prácticos utilicen el 
+ foro en particular para que todos puedan 
+ aprovechar esa es información ganada 
+ quizá alguien les sirva también 
+ la misma respuesta y si es algo 
+ particular de su grupo de su condición 
+ de regularidad me pueden escribir un 
+ mensaje directo también por la ubr pero 
+ mails no no les voy a responder el único 
+ medio de contacto lv mensaje directo o 
+ el foro para un tema en particular de la 
+ resolución de los prácticos consultas o 
+ lo que les haga falta 
+ lo mismo para mí acá lo que sin tener en 
+ cuenta en la profe escobar overflow 
+ ellos si responde mails así que con ella 
+ se pueden manejar como ocurrencia 
+ dispongas pero nosotros desde luego de 
+ práctico ya que somos una tonelada lo 
+ que tenemos inscriptos que vamos a 
+ centralizar la comunicación por ese 
+ vídeo 
+ consultas dudas 
+ a donde nos juntamos para cavar 
+ y petrov ese mismo que hice fueron 
+ consultas prácticas y podemos si está 
+ buscando grupos por todas partes 
+ aprovechen lo común tablón de anuncios 
+ después vamos enfriando foros quizás 
+ particulares por ejemplo para el foro 
+ bardo de crear parcial cosas por el 
+ estilo y la vamos a ir creando con 
+ diferentes objetivos pero en principio 
+ utilices
