@@ -4,293 +4,247 @@
 
 ## **1\) Idea central del tema**
 
-El mensaje de fondo del PPT 00 es que el software no puede entenderse **solo como código**, y por eso **saber programar no alcanza**. El software profesional involucra programas, documentación, personas, procesos, calidad, cambios, versiones y mantenimiento. Cuando el desarrollo crece en tamaño y complejidad, aparecen problemas de coordinación, planificación, requerimientos, calidad y evolución, y allí es donde surge la **ingeniería de software** como disciplina.
+El mensaje de fondo del PPT 00 es que el software no puede entenderse **solo como código**, y por eso **saber programar no alcanza**. El software profesional involucra programas, documentación, personas, procesos, calidad, cambios, versiones y mantenimiento. Cuando el desarrollo crece en tamaño y complejidad, aparecen problemas de coordinación, planificación, requerimientos, calidad y evolución, y ahí es donde surge la **ingeniería de software** como disciplina.
 
-El ppt insiste además en que el software no se parece del todo a la **manufactura**. Es menos predecible, no se produce en masa de forma idéntica, no “se gasta” físicamente y no está gobernado por leyes físicas como un producto industrial clásico. Esa condición lo vuelve más abstracto, flexible y cambiante, pero también más difícil de controlar y administrar.
+La clase refuerza esta idea con una advertencia clara: confundir software con código lleva a subestimar los problemas reales de proyecto. El parcial suele evaluar justamente esta diferencia entre "programar" y "hacer ingeniería de software".
 
-Brooks complementa esta idea con un planteo central: la dificultad del software no reside únicamente en escribir código, sino en **concebir correctamente la estructura conceptual del sistema**. En *No Silver Bullet* sostiene que la esencia del software está formada por conceptos, relaciones, algoritmos e interacciones, y que su dificultad es **esencial**, no meramente **accidental**. Por eso no existe una técnica única o una herramienta aislada que resuelva de una vez el problema del desarrollo de software.
+## **2\) Qué es software y por qué no es solo código**
 
-## **2\) Qué es software y por qué es especial**
+El PPT define software como un conjunto de programas y la documentación que los acompaña, y distingue tres tipos básicos:
 
-El ppt define software, en general, como un conjunto de programas y la documentación que los acompaña, y menciona tres tipos básicos: **software de sistema**, **utilitarios** y **software de aplicación**. Esa definición ya rompe con la idea reducida de que **software \= código fuente**.
+* **software de sistema**;
+* **utilitarios**;
+* **software de aplicación**.
 
-Sommerville amplía esta definición y explica que, cuando se habla de **software profesional**, no se habla solo del programa ejecutable, sino también de archivos de configuración, documentación del sistema, documentación del usuario y materiales asociados. En consecuencia, el software real que usa una organización no es solo “lo que compila”, sino un conjunto amplio de artefactos que deben mantenerse coherentes entre sí.
+Sommerville amplía esta definición: en software profesional no se trabaja solo con ejecutables, sino también con configuraciones, documentación técnica, documentación de usuario y otros artefactos asociados.
 
-El ppt remarca cinco razones para no comparar software con manufactura:
+La conclusión teórica clave es esta:
 
-* es **menos predecible**;  
-* no hay verdadera **producción en masa** de productos idénticos;  
-* no todas las fallas son simples **errores de fabricación**;  
-* el software **no se gasta**;  
-* no está regido por **leyes físicas**.
+**software = código + artefactos + decisiones + contexto de uso.**
 
-La consecuencia de esto es importante: no alcanza con copiar modelos industriales rígidos y esperar que todo salga igual cada vez. En software intervienen **creatividad**, **incertidumbre**, **cambios de contexto** y problemas **humanos y organizacionales**, y eso obliga a pensar el desarrollo con otra lógica.
+## **3\) Por qué no conviene comparar software con manufactura**
 
-### **Complemento: Brooks y *No Silver Bullet***
+El bloque de clase insiste en cinco motivos para no equiparar software con una línea de producción tradicional:
 
-Brooks plantea que no existe una **“bala de plata”**, es decir, una única técnica, herramienta o metodología capaz de producir una mejora drástica y universal en productividad, confiabilidad o simplicidad del software. Su argumento es que buena parte de la dificultad del software es **esencial** y no meramente **accidental**.
+* es **menos predecible**;
+* no hay verdadera producción en masa de productos idénticos;
+* no todas las fallas son equivalentes a "defectos de fabricación";
+* el software **no se gasta** como un objeto físico;
+* no está regido por leyes físicas de la misma forma que un producto industrial.
 
-La **dificultad accidental** está ligada a herramientas pobres, lenguajes limitados o entornos incómodos. La **dificultad esencial**, en cambio, proviene de la naturaleza misma del problema: la complejidad conceptual, la necesidad de representar reglas arbitrarias del dominio, la exposición constante al cambio y la dificultad de visualizar el sistema como un todo coherente.
+La transcripción además subraya una idea muy examinable: incluso dos productos "parecidos" suelen divergir porque cambian requerimientos, contexto y usuarios. Por eso en software pesa más la **gestión de cambio** que la repetición mecánica.
 
-Entre las propiedades esenciales del software, Brooks destaca la **complejidad**, la **conformidad**, la **cambiabilidad** y la **invisibilidad**:
+## **4\) Crisis del software y nacimiento de la disciplina**
 
-* **Complejidad**: un sistema de software contiene muchísimas partes lógicamente diferentes.  
-* **Conformidad**: el software debe ajustarse a reglas externas del negocio, de la organización o del entorno.  
-* **Cambiabilidad**: el software siempre está sometido a nuevas necesidades y pedidos de modificación.  
-* **Invisibilidad**: no puede observarse físicamente de manera simple como ocurre con otros productos de ingeniería.
+El PPT ubica hitos históricos (NATO 1968, *The Mythical Man-Month*, Structured Analysis, *No Silver Bullet*, CMM/CMMI, Manifiesto Ágil, Lean Software Development) para explicar que la disciplina nace como respuesta a una crisis persistente: proyectos tarde, caros y con resultados por debajo de lo esperado.
 
-La conclusión que deja Brooks no es que no haya progreso posible, sino que el progreso real en software requiere una combinación de **mejores prácticas**, **mejor comprensión del dominio**, **prototipado**, **diseño**, **validación** y **disciplina de ingeniería**. El punto de fondo es que el problema no se resuelve con una herramienta milagrosa, sino con una **disciplina completa**.
+Sommerville y Brooks convergen en el mismo punto: cuando los sistemas crecen, el problema deja de ser "escribir código" y pasa a ser coordinar trabajo **multipersona**, **multiversión** y con alta complejidad conceptual.
 
-## **3\) Por qué nace la ingeniería de software**
+## **5\) Problemas típicos del desarrollo y factores de éxito/fracaso**
 
-El ppt ubica históricamente algunos hitos: la conferencia de la **NATO de 1968**, *The Mythical Man-Month* de Brooks, la aparición de **Structured Analysis**, *No Silver Bullet*, **CMM**, **CMMI**, el **Manifiesto Ágil** y **Lean Software Development**. El objetivo no es únicamente histórico, sino mostrar cómo la disciplina se fue consolidando como respuesta a la llamada **crisis del software**.
+El PPT destaca problemas recurrentes:
 
-Sommerville explica que el término **“ingeniería de software”** se propuso justamente para discutir los problemas de proyectos grandes que llegaban tarde, costaban más de lo previsto y no entregaban la funcionalidad o confiabilidad esperadas. También aclara que, aunque la industria evolucionó mucho, esos problemas no desaparecieron por completo.
+* la versión final no satisface al cliente;
+* baja extensibilidad y adaptabilidad;
+* documentación deficiente;
+* calidad insuficiente;
+* sobrecostos y retrasos.
 
-Brooks, en el prefacio de *The Mythical Man-Month*, explica que los proyectos grandes de software tienen problemas de gestión distintos de los proyectos pequeños, y que una preocupación central es preservar la **integridad conceptual** del producto. Esa idea es crucial: cuando muchas personas intervienen sobre un sistema, el problema ya no es solo programar, sino lograr que el producto mantenga **coherencia como conjunto**.
+En paralelo, marca factores de **éxito** (involucramiento de usuarios, apoyo gerencial, requerimientos claros, planificación adecuada, expectativas realistas) y de **fracaso** (requerimientos incompletos, poco involucramiento del usuario, recursos insuficientes, expectativas irreales, cambios no gestionados).
 
-En consecuencia, la ingeniería de software surge porque el desarrollo deja de ser una actividad **individual o artesanal** y pasa a ser un problema de construcción **multiversión** y **multipersona**. El propio ppt cita a Parnas con una formulación muy sintética: la ingeniería de software es la **“multi-person construction of multi-version software”**.
+McConnell refuerza esta lectura: los desbordes de plazo/costo no suelen deberse a una sola causa técnica, sino a una combinación de decisiones pobres de producto, proceso, gestión y coordinación.
 
-## **4\) Qué problemas intenta resolver**
+## **6\) Ingeniería de software como disciplina**
 
-El ppt muestra problemas típicos del desarrollo de software:
+Sommerville define la ingeniería de software como una disciplina interesada en **todos los aspectos** de la producción y mantenimiento del software, desde especificación inicial hasta evolución en operación.
 
-* la versión final **no satisface al cliente**;  
-* el producto **no es fácil de extender o adaptar**;  
-* hay **mala documentación**;  
-* la **calidad es baja**;  
-* se superan **tiempos y costos presupuestados**.
+El PPT organiza la materia en tres grupos de disciplinas:
 
-También presenta factores que suelen explicar el **éxito** y el **fracaso**. Del lado del éxito aparecen el involucramiento del usuario, el apoyo de la gerencia, un enunciado claro de requerimientos, planeamiento adecuado y expectativas realistas. Del lado del fracaso aparecen requerimientos incompletos, falta de involucramiento del usuario, falta de recursos, expectativas poco realistas y requerimientos cambiantes. La conclusión del slide es contundente: **saber programar no es suficiente**.
+* **técnicas**: requerimientos, análisis/diseño, construcción, pruebas, despliegue;
+* **de gestión**: planificación, monitoreo y control;
+* **de soporte**: configuración, aseguramiento de calidad, métricas.
 
-McConnell refuerza esta visión en *Rapid Development*. En el prefacio indica que una gran proporción de proyectos supera sus estimaciones, y el índice del libro muestra capítulos dedicados a **Classic Mistakes**, **Risk Management**, **Lifecycle Planning**, **Estimation** y **Scheduling**, lo cual encaja con los problemas que introduce la cátedra.
+Esta estructura permite justificar por qué en el parcial aparece la afirmación central:
 
-Más aún, en la parte dedicada a errores clásicos, McConnell enumera **expectativas irreales**, **planificación insuficiente**, **abandono de la planificación bajo presión**, **diseño inadecuado**, **mala gestión del riesgo**, **feature creep**, **estimaciones optimistas** y **atajos de calidad**. El fracaso de los proyectos de software rara vez se explica por una sola causa técnica; normalmente surge de una combinación de errores de **producto**, **proceso**, **personas** y **gestión**.
-
-## **5\) Qué es ingeniería de software**
-
-Sommerville define la ingeniería de software como una **disciplina de ingeniería** interesada en **todos los aspectos de la producción de software**, desde la especificación inicial hasta el mantenimiento y evolución luego de la puesta en operación.
-
-Esa definición tiene dos partes importantes.
-
-En primer lugar, se trata de una **disciplina de ingeniería**. Esto significa que no se apoya en la improvisación, sino en **métodos**, **herramientas**, **criterios de calidad** y **decisiones racionales** tomadas bajo restricciones reales de tiempo, costo y contexto.
-
-En segundo lugar, se interesa por **todos los aspectos** de la producción de software. Por lo tanto, no se limita a requerimientos, diseño o codificación, sino que también incluye **gestión**, **validación**, **evolución**, **soporte**, **control de cambios**, **calidad**, **métricas** y **coordinación de equipos**.
-
-El ppt lo muestra claramente cuando organiza la materia en tres grandes grupos de disciplinas:
-
-* **técnicas**: requerimientos, análisis y diseño, construcción, prueba, despliegue;  
-* **de gestión**: planificación y monitoreo/control del proyecto;  
-* **de soporte**: gestión de configuración, aseguramiento de calidad, métricas.
-
-Eso significa que en esta materia el software se estudia como **producto \+ proceso \+ organización**.
-
-## **6\) La ingeniería de software en contexto: SEBOK y sistemas**
-
-El ppt muestra también el **SWEBOK/SEBoK** como cuerpo de conocimiento de la disciplina, y presenta el de ingeniería de sistemas para ubicar a la materia dentro de un marco más amplio. La intención no parece ser la memorización exhaustiva de cada área, sino la comprensión de que la ingeniería de software no está aislada: se conecta con **ingeniería de sistemas**, **gestión de proyectos**, **calidad**, **configuración** y otras disciplinas relacionadas.
-
-Acá resulta útil recordar otra distinción de Sommerville: la **ingeniería de software** se enfoca en el software, mientras que la **ingeniería de sistemas** se ocupa del sistema completo, incluyendo hardware, procesos, integración y operación. En muchos contextos, la primera forma parte de la segunda.
+**saber programar no es suficiente para construir software profesional.**
 
 ## **7\) Proceso de software: qué es y por qué importa**
 
-El ppt define **proceso de software** como un conjunto estructurado de actividades para desarrollar un sistema de software y aclara algo decisivo: si el proceso va a ser administrado, debe **modelarse explícitamente**. También agrega que el proceso no es una mera lista de pasos, sino que incluye personas, herramientas, habilidades, entrenamiento y motivación.
+El PPT define proceso de software como un conjunto estructurado de actividades para desarrollar un sistema, y aclara que debe **modelarse explícitamente** si se quiere administrar.
 
-Sommerville coincide y explica que un proceso de software es una secuencia de actividades que conduce a la producción de software y que, aunque existan muchas variantes, hay cuatro actividades fundamentales comunes:
+Sommerville resume cuatro actividades comunes a la mayoría de procesos:
 
-* **especificación**;  
-* **desarrollo**;  
-* **validación**;  
+* **especificación**;
+* **desarrollo**;
+* **validación**;
 * **evolución**.
 
-El punto importante es que el proceso no se introduce para burocratizar, sino para **coordinar trabajo complejo** y poder tomar decisiones con cierta base. Sin proceso, el trabajo queda expuesto a improvisaciones difíciles de controlar.
+La clase aporta un matiz importante: proceso no es solo secuencia de tareas; incluye personas, métodos, herramientas, habilidades, entrenamiento y motivación.
 
 ## **8\) Procesos definidos vs empíricos**
 
-Este es uno de los **núcleos conceptuales** más importantes del ppt.
-
 ### **Proceso definido**
 
-Asume que puede repetirse el mismo proceso una y otra vez obteniendo resultados similares. El control proviene de la **predictibilidad**. Está inspirado en modelos de producción relativamente estables, donde la variabilidad es baja.
+Parte de la idea de repetibilidad y control por predictibilidad: mismas entradas, mismo proceso, salidas similares.
 
 ### **Proceso empírico**
 
-Asume procesos complejos, con variables cambiantes y resultados no totalmente previsibles. El control se logra mediante **inspecciones frecuentes** y **adaptación**. El ppt dice explícitamente que estos procesos funcionan mejor en contextos creativos y complejos.
+Asume complejidad y variabilidad: el control se logra por **inspección frecuente** y **adaptación**.
 
-La metáfora del pasto y los caminos en la Universidad de California sirve justamente para esto: en lugar de definir todo de antemano desde un escritorio, primero se observa qué sucede en la realidad y después se adapta la solución.
+El PPT y la clase usan esta distinción para preparar el puente hacia enfoques ágiles. En software, muchos contextos no se gobiernan bien solo con predicción; requieren ciclos de feedback.
 
-Esto conecta directamente con **Scrum**. La *Scrum Guide* define Scrum como un framework liviano para generar valor en problemas complejos y sostiene que está fundado en **empirismo** y **lean thinking**. También identifica tres pilares: **transparencia**, **inspección** y **adaptación**.
+## **9\) Ciclos de vida**
 
-El **Manifiesto Ágil** y sus principios van en la misma dirección: entregar software con valor en forma temprana y continua, aceptar cambios de requerimientos incluso en etapas tardías, trabajar negocio y desarrollo en conjunto y reflexionar regularmente para ajustar la forma de trabajo.
+El ciclo de vida se presenta como serie de pasos por los que progresa un proyecto o producto. El PPT remarca que un ciclo de vida es una **representación del proceso** y clasifica en:
 
-La idea teórica central es que, en software, no siempre es posible gobernar todo por **predicción**; muchas veces es necesario gobernar por **retroalimentación**.
-
-## **9\) Ciclo de vida del proyecto y del producto**
-
-El ppt explica que un **ciclo de vida** es la serie de pasos por los cuales progresa un producto o un proyecto. También muestra la relación entre **ciclo de vida del proyecto** y **ciclo de vida del producto**: el proyecto atraviesa fases para construir algo, pero el producto sigue existiendo después, pasa por operación, actualización y eventual retiro.
-
-Después aclara una distinción importante: un ciclo de vida de un proyecto software es una **representación de un proceso**. Es decir, el ciclo de vida no es “otro objeto separado”, sino una forma de ver y ordenar el proceso a lo largo del tiempo.
-
-La clasificación básica que da el ppt es:
-
-* **secuencial**;  
-* **iterativo/incremental**;  
+* **secuencial**;
+* **iterativo/incremental**;
 * **recursivo**.
 
-Sommerville complementa esto al presentar modelos de proceso como **cascada**, **desarrollo incremental** y **reutilización**, y explica que son abstracciones que muestran distintas formas de organizar el trabajo.
+Complemento bibliográfico:
 
-McConnell, en *Rapid Development*, agrega una ampliación muy útil: en el índice del capítulo **Lifecycle Planning** aparecen modelos como *pure waterfall*, *code-and-fix*, *spiral*, *modified waterfalls*, *evolutionary prototyping*, *staged delivery*, *design-to-schedule*, *evolutionary delivery*, *design-to-tools* y *commercial off-the-shelf software*. Esto encaja muy bien con la diapositiva del ppt que dice **“de ciclos de vida hay más”**.
+* Sommerville: modelos como cascada, incremental y reutilización;
+* McConnell (*Rapid Development*): variantes como waterfall, spiral, staged delivery y evolutionary prototyping.
 
-Entonces, lo importante es entender que:
+La idea importante para parcial: no existe un único ciclo de vida universalmente superior; su utilidad depende de contexto y tipo de problema.
 
-* el **proceso** es cómo se trabaja;  
-* el **ciclo de vida** es cómo se representa la progresión del trabajo o del producto;  
-* y existen **muchas variantes posibles**, no una sola universal.
+## **10\) Relación proceso / ciclo de vida / proyecto / producto**
 
-### **Relación entre proceso de desarrollo y ciclo de vida**
+Aunque el desarrollo detallado de "componentes de proyecto" aparece luego, el PPT 00 deja planteada la relación base:
 
-El **proceso de desarrollo de software** y el **ciclo de vida** están fuertemente relacionados, pero no son lo mismo. El proceso es el concepto más amplio: describe **cómo se trabaja**, qué actividades se realizan, qué métodos se emplean, qué personas intervienen, qué herramientas se utilizan y cómo se transforman los insumos en productos de software.
+* **proceso**: cómo se trabaja (actividades, métodos, roles, herramientas);
+* **ciclo de vida**: cómo se representa y ordena ese trabajo en fases;
+* **proyecto**: esfuerzo temporal que ejecuta el proceso;
+* **producto**: resultado que luego evoluciona en operación.
 
-El ciclo de vida, en cambio, es una **representación** del proceso desde una perspectiva temporal o estructural. Muestra por qué fases progresa el producto o el proyecto, y en qué orden se llevan a cabo. Por eso el ppt afirma que un ciclo de vida de un proyecto software es una representación de un proceso y que los modelos especifican las fases y su orden.
+En forma sintética:
 
-En términos más sintéticos:
+**el proceso organiza, el ciclo de vida estructura, el proyecto ejecuta y el producto materializa el resultado.**
 
-* **proceso** \= cómo se trabaja;  
-* **ciclo de vida** \= cómo se representa y organiza ese trabajo a lo largo del tiempo.
+## **11\) No Silver Bullet (sección clave del parcial)**
 
-Esta distinción es importante porque evita confundir las **actividades reales del desarrollo** con la **manera en que se las ordena y visualiza** para administrarlas.
+*No Silver Bullet* es central en el parcial porque explica por qué no existe una técnica "milagrosa" que elimine de una vez los problemas del software.
 
-## **10\) Agile como consecuencia natural de este contexto**
+Brooks distingue entre:
 
-Aunque el ppt 00 todavía no desarrolla **Agile** en profundidad, deja preparado todo el marco para entender por qué aparece.
+* **dificultad accidental**: derivada de herramientas/lenguajes/entornos;
+* **dificultad esencial**: propia de la naturaleza del software.
 
-Si el software:
+Dentro de la dificultad esencial destaca cuatro propiedades:
 
-* **cambia mucho**;  
-* tiene **incertidumbre**;  
-* requiere **feedback con usuarios**;  
-* y no puede definirse completamente de antemano en todos los casos;
+* **complejidad**;
+* **conformidad**;
+* **cambiabilidad**;
+* **invisibilidad**.
 
-entonces tiene sentido buscar enfoques más **iterativos**, **adaptativos** y basados en **ciclos de aprendizaje cortos**.
+La consecuencia conceptual es fuerte:
 
-Brooks lo expresa con mucha claridad: la parte más difícil de construir software es **decidir exactamente qué construir**, y esa es también la parte más costosa de corregir tarde. Además, en *No Silver Bullet* señala como líneas prometedoras el **prototipado rápido**, el **crecimiento orgánico del software** y los **enfoques iterativos** para establecer requerimientos.
+**mejorar herramientas ayuda, pero no elimina el núcleo duro del problema.**
 
-Por eso el siguiente ppt de la cátedra, sobre **requerimientos ágiles** y **user stories**, no aparece de manera aislada: es una continuación lógica de esta introducción. Allí van a aparecer ideas como **priorización continua**, análisis **“cuando se necesite, no antes”**, conversación **cara a cara** y **criterios de aceptación**.
+Por eso, la mejora real exige combinación de ingeniería de requerimientos, diseño conceptual, validación, gestión y disciplina de equipo, no una sola "bala de plata".
 
-### **Ejemplos de proyectos de software fallidos y exitosos**
+## **12\) Ejemplos emblemáticos y sentido de esos ejemplos**
 
-Como ejemplo de **proyecto exitoso**, el propio material ya sugiere el caso del software del programa **Apollo**, asociado a **Margaret Hamilton**. La cátedra la coloca al comienzo del ppt como símbolo del papel central que tuvo el software en un proyecto crítico. El ejemplo resulta valioso porque muestra que, cuando existe **claridad conceptual**, **disciplina técnica** y una fuerte **integración entre software y sistema**, el software puede ser parte de logros de altísima complejidad.
+El material usa casos para mostrar impacto real del software:
 
-Como ejemplo de **problemas graves vinculados al software**, el ppt menciona errores informáticos costosos y también el caso del **Toyota Prius**, utilizado para mostrar que una falla de software no queda encerrada en el plano digital, sino que puede impactar **costos**, **seguridad**, **reputación** y **operación** en el mundo real. El sentido del ejemplo no es memorizar un caso periodístico puntual, sino comprender que el software incorrectamente validado o controlado puede producir consecuencias organizacionales y técnicas muy relevantes.
+* ejemplos de proyectos exitosos (como Apollo/Margaret Hamilton);
+* ejemplos de fallas con consecuencias fuertes (la clase menciona casos como Ariane y sistemas críticos en transporte).
 
-La lectura correcta de estos ejemplos no consiste únicamente en acumular nombres, sino en entender qué ilustran:
+La cátedra no busca memorizar anécdotas aisladas, sino extraer la lectura conceptual:
 
-* los casos **exitosos** muestran el valor de la **disciplina**, la **calidad** y la **integración** entre software y sistema;  
-* los casos **fallidos** muestran que errores de **diseño**, **validación**, **control de cambios** o **gestión** pueden escalar a consecuencias graves.
+* en casos exitosos, pesan disciplina, integridad conceptual y calidad;
+* en casos fallidos, escalan errores de requerimientos, validación, diseño, control de cambios y gestión.
 
-## **11\) Qué conviene aprender bien de memoria conceptual**
+## **13\) Qué conviene aprender bien de memoria conceptual**
 
 Para este tema, conviene dominar estas ideas:
 
-* el **software no es solo código**;  
-* no conviene equipararlo sin más con **manufactura**;  
-* la **ingeniería de software** surge por la complejidad y los fracasos de proyectos grandes;  
-* **saber programar no alcanza** porque hay problemas de proceso, gestión, calidad y evolución;  
-* la ingeniería de software cubre **todos los aspectos** de producción y mantenimiento del software;  
-* el **proceso de software** debe modelarse para poder administrarse;  
-* hay diferencia entre **proceso definido** y **proceso empírico**;  
-* hay relación entre **proceso** y **ciclo de vida**, pero no son exactamente lo mismo;  
-* existen distintos **tipos de ciclo de vida**;  
-* **Agile** aparece como respuesta a contextos complejos, cambiantes y con necesidad de feedback.
+* el software profesional **no es solo código**;
+* no conviene equipararlo sin más con manufactura;
+* la crisis histórica del software explica el surgimiento de la disciplina;
+* **saber programar no alcanza**;
+* la ingeniería de software integra técnicas, gestión y soporte;
+* el proceso de software debe modelarse para ser administrable;
+* hay diferencia entre procesos definidos y empíricos;
+* el ciclo de vida representa el proceso y ordena fases;
+* proceso/ciclo/proyecto/producto están relacionados pero no son sinónimos;
+* *No Silver Bullet* explica por qué no hay soluciones mágicas.
 
 ## **Lecturas recomendadas para complementar**
 
-### **Nivel 1: lo más importante para este ppt**
+### **Nivel 1: base obligatoria para este PPT**
 
-**Sommerville – *Ingeniería de Software***  
-Conviene leer sobre todo:
+**Sommerville - *Ingeniería de Software***
 
-* **Capítulo 1: Introducción**  
-* **Capítulo 2: Procesos de software**  
-* **Capítulo 3: Desarrollo ágil de software**
+* Cap. 1 (introducción);
+* Cap. 2 (procesos de software);
+* Cap. 3 (desarrollo ágil).
 
-Con eso se cubre casi todo el núcleo conceptual del ppt 00: qué es ingeniería de software, software profesional, procesos, actividades fundamentales y el puente hacia Agile.
+**Brooks - *No Silver Bullet***
 
-**Brooks – *No Silver Bullet***  
-Es clave para entender:
+* dificultad esencial vs accidental;
+* complejidad, conformidad, cambiabilidad e invisibilidad;
+* límites de las mejoras "milagrosas".
 
-* por qué el software es difícil;  
-* qué significa **complejidad esencial**;  
-* por qué no hay **soluciones mágicas**;  
-* y por qué requerimientos y diseño conceptual son tan críticos.
+**McConnell - *Rapid Development***
 
-**McConnell – *Rapid Development***  
-Para este ppt convienen especialmente:
-
-* **Chapter 3: Classic Mistakes**  
-* **Chapter 5: Risk Management**  
-* **Chapter 7: Lifecycle Planning**  
-* **Chapter 8: Estimation**  
-* **Chapter 9: Scheduling**
-
-Sirve para profundizar procesos, ciclos de vida, errores de proyecto, riesgo y planificación.
+* classic mistakes;
+* risk management;
+* lifecycle planning;
+* estimation y scheduling.
 
 ### **Nivel 2: complemento útil**
 
-**McConnell – *Software’s Ten Essentials***  
-Es útil para fijar una visión general de proyecto: especificación, prototipos, cronograma realista, prioridades, riesgos y QA.
+**Software's Ten Essentials**
 
-**Scrum Guide \+ Principios del Manifiesto Ágil**  
-No para estudiar Scrum completo todavía, sino para comprender mejor:
+* enfoque de buenas prácticas globales de proyecto.
 
-* **empirismo**;  
-* **transparencia**, **inspección** y **adaptación**;  
-* foco en **valor**, **entrega frecuente** y **cambio**.
+**The Mythical Man-Month**
 
-### **Nivel 3: útil para seguir con el ppt 02**
+* gestión de proyectos grandes;
+* integridad conceptual y coordinación multipersona.
 
-**Cohn – *User Stories Applied***  
-Sirve para entrar en user stories, criterios de aceptación, planificación y conversación con el cliente.
+**Manifiesto Ágil + Scrum Guide (solo como puente conceptual)**
 
-**Leffingwell y Behrens – *A User Story Primer***  
-Es un buen resumen breve para entender qué es una user story, por qué no equivale a un documento exhaustivo de requerimientos y cómo usar **INVEST**.
+* contexto empírico, feedback, adaptación.
 
 ## **Posibles preguntas de parcial, con respuesta modelo**
 
-### **1\. ¿Por qué saber programar no es suficiente?**
+### **1\. Por qué saber programar no es suficiente?**
 
-Porque los problemas del software profesional no se reducen a la codificación. También intervienen requerimientos, diseño, validación, evolución, calidad, gestión, configuración, comunicación con usuarios y coordinación entre múltiples personas y versiones. Por eso la ingeniería de software aborda todos los aspectos de producción y mantenimiento del software.
+Porque el software profesional incluye requerimientos, diseño, validación, evolución, calidad, configuración y coordinación de equipos, no solo codificación.
 
-### **2\. ¿Por qué no conviene comparar software con manufactura?**
+### **2\. Por qué no conviene comparar software con manufactura?**
 
-Porque el software es menos predecible, no se produce realmente en masa como objetos idénticos, no se gasta por uso físico y no está sometido a restricciones materiales equivalentes. Además, gran parte de su dificultad es conceptual y no puramente mecánica.
+Porque el software es menos predecible, no se produce en masa de forma idéntica, no se desgasta como objeto físico y su dificultad principal es conceptual.
 
-### **3\. ¿Qué es ingeniería de software?**
+### **3\. Qué es ingeniería de software?**
 
-Es una disciplina de ingeniería interesada en todos los aspectos de la producción de software, desde la especificación inicial hasta el mantenimiento y evolución del sistema una vez puesto en operación.
+Es la disciplina de ingeniería que aborda todos los aspectos de producción y mantenimiento de software, desde especificación inicial hasta evolución en operación.
 
-### **4\. ¿Qué es un proceso de software?**
+### **4\. Qué es un proceso de software?**
 
-Es un conjunto estructurado de actividades para desarrollar un sistema de software. Incluye actividades, métodos, herramientas y personas. Si se quiere administrar, debe modelarse explícitamente.
+Es un conjunto estructurado de actividades para construir software. Incluye personas, métodos, herramientas y productos asociados, y debe explicitarse para poder gestionarlo.
 
-### **5\. ¿Qué diferencia hay entre proceso definido y empírico?**
+### **5\. Qué diferencia hay entre proceso definido y empírico?**
 
-El proceso definido se basa en la predictibilidad y supone repetibilidad con resultados similares. El empírico asume variabilidad y complejidad, y se controla mediante inspección frecuente y adaptación.
+El definido se apoya en predictibilidad y repetición; el empírico en inspección y adaptación frente a variabilidad y complejidad.
 
-### **6\. ¿Qué relación hay entre proceso y ciclo de vida?**
+### **6\. Qué relación hay entre proceso y ciclo de vida?**
 
-El ciclo de vida es una representación del proceso desde cierta perspectiva temporal. Muestra fases y orden, pero no reemplaza al proceso como concepto más amplio.
+El ciclo de vida es una representación del proceso en fases y orden temporal; no reemplaza al proceso como concepto más amplio.
 
-### **7\. ¿Qué tipos básicos de ciclo de vida menciona la cátedra?**
+### **7\. Qué relación hay entre proceso, ciclo de vida, proyecto y producto?**
 
-**Secuencial**, **iterativo/incremental** y **recursivo**. Además, bibliografía como McConnell muestra variantes más específicas como waterfall, spiral, staged delivery y evolutionary prototyping.
+Proceso: cómo se trabaja. Ciclo de vida: cómo se ordena ese trabajo. Proyecto: esfuerzo temporal que lo ejecuta. Producto: resultado que se entrega y luego evoluciona.
 
-### **8\. ¿Por qué Agile tiene sentido en software?**
+### **8\. Cuál es la idea clave de No Silver Bullet?**
 
-Porque el software es complejo, cambiante y difícil de definir perfectamente desde el inicio. En ese contexto, enfoques empíricos, iterativos y adaptativos permiten inspeccionar, aprender y ajustar mejor que los modelos puramente predictivos.
+Que no existe una técnica única capaz de resolver de manera drástica y universal la complejidad del software, porque gran parte de esa dificultad es esencial.
 
 ## **Mini resumen final para repetir antes del examen**
 
-La **ingeniería de software** aparece porque el software profesional no es solo código: es un producto **abstracto**, **complejo**, **cambiante** y construido por múltiples personas a lo largo de múltiples versiones. Eso genera problemas de **requerimientos**, **diseño**, **calidad**, **evolución** y **gestión** que no se resuelven solamente programando. Por eso hacen falta **procesos**, **métodos** y **disciplinas de soporte**. Como además muchos proyectos de software operan en contextos inciertos y creativos, no siempre alcanza con enfoques definidos y predictivos; en muchos casos se necesita una lógica **empírica** basada en **inspección**, **adaptación** y **feedback**.
+La **ingeniería de software** surge porque el software profesional es complejo, cambiante y multipersona, y no puede gobernarse solo con codificación. El software no es solo código: integra artefactos, procesos, decisiones y contexto de uso. Por eso no conviene compararlo de forma lineal con manufactura. La disciplina combina técnicas, gestión y soporte para enfrentar problemas de requerimientos, calidad, coordinación y evolución. En este marco, el **proceso** define cómo se trabaja, el **ciclo de vida** organiza fases, el **proyecto** ejecuta y el **producto** materializa el resultado. *No Silver Bullet* cierra la idea: no hay soluciones mágicas; la mejora real viene de disciplina de ingeniería, buen diseño conceptual, validación y gestión continua del cambio.
 
 ---
 

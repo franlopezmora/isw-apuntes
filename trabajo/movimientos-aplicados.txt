@@ -1,0 +1,67 @@
+﻿MOVED: inbox\00 Introducción a la Ingenieria de Software.pdf -> fuentes\parcial-1\ppt-00-introduccion\catedra\ppt-00-introduccion-ingenieria-software.pdf
+MOVED: inbox\01 SCM.pdf -> fuentes\parcial-1\ppt-01-scm\catedra\ppt-01-scm.pdf
+MOVED: inbox\02 Rqs Agiles USER STORIES.pdf -> fuentes\parcial-1\ppt-02-requerimientos-user-stories\catedra\ppt-02-requerimientos-agiles-user-stories.pdf
+MOVED: inbox\03 Estimaciones Ágiles.pdf -> fuentes\parcial-1\ppt-03-estimaciones-agiles\catedra\ppt-03-estimaciones-agiles.pdf
+MOVED: inbox\04 Gestión de Productos de Software.pdf -> fuentes\parcial-1\ppt-04-gestion-producto\catedra\ppt-04-gestion-producto-software.pdf
+MOVED: inbox\05 Componentes de Proyecto SW.pdf -> fuentes\parcial-1\ppt-05-componentes-proyecto-sw\catedra\ppt-05-componentes-proyecto-sw.pdf
+MOVED: inbox\06 Estimaciones de Sw.pdf -> fuentes\parcial-1\ppt-06-estimaciones-software\catedra\ppt-06-estimaciones-software.pdf
+MOVED: inbox\07 SCRUM 2020, Planificación de release y sprint, Métricas Scrum.pdf -> fuentes\parcial-1\ppt-07-scrum-planificacion-metricas\catedra\ppt-07-scrum-2020-planificacion-release-sprint-metricas.pdf
+MOVED: inbox\08 Testing de Software.pdf -> fuentes\parcial-2\ppt-08-testing-software\catedra\ppt-08-testing-de-software.pdf
+MOVED: inbox\08 Agile Testing.pdf -> fuentes\parcial-2\ppt-08-agile-testing\catedra\ppt-08-agile-testing.pdf
+MOVED: inbox\09 Testing de Software Estrategias Caja Negra.pdf -> fuentes\parcial-2\ppt-09-testing-caja-negra\catedra\ppt-09-testing-estrategias-caja-negra.pdf
+MOVED: inbox\10 LEAN  KANBAN.pdf -> fuentes\parcial-2\ppt-10-lean-kanban\catedra\ppt-10-lean-kanban.pdf
+MOVED: inbox\Transcripcion Clase PPT 00.txt -> fuentes\parcial-1\ppt-00-introduccion\clase\transcripcion-clase-ppt-00.txt
+MOVED: inbox\Transcripcion Clase PPT 02.txt -> fuentes\parcial-1\ppt-02-requerimientos-user-stories\clase\transcripcion-clase-ppt-02.txt
+MOVED: inbox\Resumen Parcial 1 ISW.pdf -> fuentes\parcial-1\complementarias\resumenes\resumen-parcial-1-isw.pdf
+MOVED: inbox\Resumen Parcial 2 ISW.pdf -> fuentes\parcial-2\complementarias\resumenes\resumen-parcial-2-isw.pdf
+MOVED: inbox\RESUMEN FINAL-ISW.pdf -> fuentes\generales\complementarias\resumenes\resumen-final-isw.pdf
+MOVED: inbox\10Essentials.pdf -> bibliografia\fuentes\parcial-1\introduccion\software-ten-essentials.pdf
+MOVED: inbox\Brooks_1986_-_No_Silver_Bullet.pdf -> bibliografia\fuentes\parcial-1\introduccion\no-silver-bullet-brooks-1986.pdf
+MOVED: inbox\Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf -> bibliografia\fuentes\parcial-1\introduccion\mythical-man-month-20th-anniversary.pdf
+MOVED: inbox\Rapid Development de Steve McConnell.pdf -> bibliografia\fuentes\parcial-1\introduccion\rapid-development-steve-mcconnell.pdf
+MOVED: inbox\rapid-development-taming-wild-software-schedules-booksfree.org_.pdf -> bibliografia\fuentes\parcial-1\introduccion\rapid-development-taming-wild-software-schedules.pdf
+MOVED: inbox\Agile SCM.pdf -> bibliografia\fuentes\parcial-1\scm\agile-scm.pdf
+MOVED: inbox\Bibliografía - Little_Book_of_Configuration_Management.pdf -> bibliografia\fuentes\parcial-1\scm\little-book-of-configuration-management.pdf
+MOVED: inbox\Blue-Green and Canary Deployments Explained.pdf -> bibliografia\fuentes\parcial-1\scm\blue-green-and-canary-deployments-explained.pdf
+MOVED: inbox\Paper  - SCM - Bersoff-Elements of Software Configuration Management.pdf -> bibliografia\fuentes\parcial-1\scm\bersoff-elements-of-software-configuration-management.pdf
+MOVED: inbox\SCM &amp; the Agile Manifesto.pdf -> bibliografia\fuentes\parcial-1\scm\scm-and-the-agile-manifesto.pdf
+MOVED: inbox\A-user-story-primer.pdf -> bibliografia\fuentes\parcial-1\requerimientos\a-user-story-primer.pdf
+MOVED: inbox\Addison-Wesley,.User.Stories.Applied.For.Agile.Software.Deve.pdf -> bibliografia\fuentes\parcial-1\requerimientos\user-stories-applied-addison-wesley.pdf
+MOVED: inbox\User-Stories-Applied-Mike-Cohn.pdf -> bibliografia\fuentes\parcial-1\requerimientos\user-stories-applied-mike-cohn.pdf
+MOVED: inbox\Principios del Manifiesto Ágil.pdf -> bibliografia\fuentes\parcial-1\requerimientos\principios-del-manifiesto-agil.pdf
+MOVED: inbox\36-612_Agile Estimating and Planning by Mike Cohn.pdf -> bibliografia\fuentes\parcial-1\estimaciones\agile-estimating-and-planning-mike-cohn.pdf
+MOVED: inbox\Agile Estimating and Planning.pdf -> bibliografia\fuentes\parcial-1\estimaciones\agile-estimating-and-planning-alternativo.pdf
+MOVED: inbox\McConnell, Steve - Software estimation demystifying the black art-Microsoft Press (2006) .pdf -> bibliografia\fuentes\parcial-1\estimaciones\software-estimation-demystifying-the-black-art.pdf
+MOVED: inbox\2020-Scrum-Guide-Spanish-Latin-South-American.pdf -> bibliografia\fuentes\parcial-1\scrum\scrum-guide-2020-spanish-latin-south-american.pdf
+MOVED: inbox\2020-Scrum-Guide-US.pdf -> bibliografia\fuentes\parcial-1\scrum\scrum-guide-2020-english.pdf
+MOVED: inbox\Essential Scrum.pdf -> bibliografia\fuentes\parcial-1\scrum\essential-scrum.pdf
+MOVED: inbox\scrum-y-xp-desde-las-trincheras.pdf -> bibliografia\fuentes\parcial-1\scrum\scrum-y-xp-desde-las-trincheras.pdf
+MOVED: inbox\Agile Retrospectives_ Making Good Teams Great ( PDFDrive ).pdf -> bibliografia\fuentes\parcial-1\scrum\agile-retrospectives-making-good-teams-great.pdf
+MOVED: inbox\El metodo Lean Startup.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\el-metodo-lean-startup.pdf
+MOVED: inbox\El Minimum Lovable Product (MLP) como alternativa al Minimum Viable Product (MVP) - GammaUX.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\minimum-lovable-product-gammaux.pdf
+MOVED: inbox\Minimum Lovable Product (MLP)_ Definition, Examples, and Applications _ LaunchNotes.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\minimum-lovable-product-launchnotes.pdf
+MOVED: inbox\Minimum Lovable Product (MLP)_ What Is It and How to Build One_.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\minimum-lovable-product-what-is-it-and-how-to-build-one.pdf
+MOVED: inbox\Minimum Lovable Product (MLP)_ Why PMs Should Embrace It.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\minimum-lovable-product-why-pms-should-embrace-it.pdf
+MOVED: inbox\Explaining MVPs, MVFs, MMFs via the Lean_Agile Requirements Dinosaur - AgileSparks.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\explaining-mvps-mvfs-mmfs-agilesparks.pdf
+MOVED: inbox\Lean_UX.pdf -> bibliografia\fuentes\parcial-1\gestion-producto\lean-ux.pdf
+MOVED: inbox\AGILE_TESTING_-_A_PRACTICAL_GUIDE_FOR_TESTERS_AND_AGILE_TEAMS.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\agile-testing-practical-guide.pdf
+MOVED: inbox\Introducción a las Pruebas de Sistemas de Información_Abstracta - Versión Final - 25.03.2014.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\introduccion-pruebas-sistemas-informacion-abstracta.pdf
+MOVED: inbox\Software Testing.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\software-testing.pdf
+MOVED: inbox\The Art of Software Testing 3 edition.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\the-art-of-software-testing-3rd-edition.pdf
+MOVED: inbox\TDD.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\tdd.pdf
+MOVED: inbox\Beck Ken test-driven-development-by-example.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\test-driven-development-by-example-ken-beck.pdf
+MOVED: inbox\disenoAgilConTDD.pdf -> bibliografia\fuentes\parcial-2\testing-calidad\diseno-agil-con-tdd.pdf
+MOVED: inbox\Essential-Kanban-Condensed-Spanish.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\essential-kanban-condensed-spanish.pdf
+MOVED: inbox\Kanban Andersen.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\kanban-andersen.pdf
+MOVED: inbox\Kanban_vs_Scrum_Castellano_DRAFT_3_PRINT.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\kanban-vs-scrum-castellano.pdf
+MOVED: inbox\The-Official-Kanban-Guide_Spanish_A4.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\official-kanban-guide-spanish.pdf
+MOVED: inbox\Implementing Lean Software Development From Concept to Cash.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\implementing-lean-software-development.pdf
+MOVED: inbox\Lean Software Development - An Agile Toolkit.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\lean-software-development-agile-toolkit.pdf
+MOVED: inbox\Lean-from-the-trenches.pdf -> bibliografia\fuentes\parcial-2\lean-kanban\lean-from-the-trenches.pdf
+MOVED: inbox\Ingenieria de Software - Ian Somerville - 9 edicion - español.pdf -> bibliografia\fuentes\generales\ingenieria-software\ingenieria-de-software-ian-sommerville-9ed-es.pdf
+MOVED: inbox\ingenieria del software - roger pressman 7ma edición.pdf -> bibliografia\fuentes\generales\ingenieria-software\ingenieria-del-software-roger-pressman-7ed.pdf
+MOVED: inbox\code-complete-a-practical-handbook-of-software-construction-with-pdf-outline-2nd-edition_compress.pdf -> bibliografia\fuentes\generales\ingenieria-software\code-complete-2nd-edition.pdf
+MOVED: inbox\Software Engineering Body of Knowledge.pdf -> bibliografia\fuentes\generales\ingenieria-software\software-engineering-body-of-knowledge.pdf
+MOVED: inbox\Cynefin Mini book.pdf -> bibliografia\fuentes\generales\agilidad-general\cynefin-mini-book.pdf
+MOVED: inbox\The Mythical Man-Month_ Essays on Software Engineeri.pdf -> bibliografia\duplicados\the-mythical-man-month-duplicate.pdf
+MOVED: inbox\Paper  - SCM - Bersoff.pdf -> bibliografia\duplicados\bersoff-elements-of-software-configuration-management-duplicate.pdf
